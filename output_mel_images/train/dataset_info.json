@@ -1,0 +1,19 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "image": {
+      "_type": "Image"
+    },
+    "audio_file": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "slice": {
+      "dtype": "int16",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
